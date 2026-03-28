@@ -253,6 +253,6 @@ Skills:
   - Python
   - NLP
   - Deep Learning
-📧 Email: techclasses0810@gmail.com  
+📧 Email: ritresh273@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/feed/)  
 🔗 [GitHub](https://github.com/Ritresh/Ritresh)
