@@ -250,9 +250,11 @@ streamlit run app/streamlit_app.py
 BCA Student | Aspiring Data Scientist 
 
 Skills:
-  - Python
-  - NLP
-  - Deep Learning
+- Python  
+- Machine Learning  
+- Natural Language Processing  
+- Data Analysis  
+- Deep Learning 
 📧 Email: ritresh273@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/feed/)  
 🔗 [GitHub](https://github.com/Ritresh/Ritresh)
